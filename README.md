@@ -56,6 +56,11 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 [[Website](https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html)] \
 29 June 2021
 
+**Diffusion Models are autoencoders** \
+** \
+[[Website](https://benanne.github.io/2022/01/31/diffusion.html)] \
+29 Janu 2022
+
 ## Introductory Papers
 
 **A Connection Between Score Matching and Denoising Autoencoders** \
